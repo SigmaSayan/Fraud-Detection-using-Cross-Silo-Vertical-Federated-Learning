@@ -44,3 +44,12 @@ Achieved solid performance under constrained resources:
 To demonstrate fraud detection across data silos using vertical federated learning, focusing on **model utility, data confidentiality, and real-world compute constraints**.
 
 ---
+
+## ✍️ Author
+
+**Sayan Das**  
+*B.Tech + M.Tech in Mechanical & Financial Engineering*  
+*Indian Institute of Technology, Kharagpur (IIT Kharagpur)*
+
+---
+
