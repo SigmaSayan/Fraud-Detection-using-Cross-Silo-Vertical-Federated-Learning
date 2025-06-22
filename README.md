@@ -1,4 +1,4 @@
-# 🔐 Cross-Silo Vertical Federated Learning for Transaction Fraud Detection
+# 🔐 Fraud Detection using Cross-Silo Vertical Federated Learning
 
 This project implements a **PyTorch-based vertical federated learning (VFL)** system to detect fraudulent transactions without sharing raw data across institutions. Each party owns distinct feature sets for the same users, ensuring data privacy throughout the training process.
 
